@@ -1,0 +1,30 @@
+
+
+ORDER = '''
+
+Update Extract Files 
+
+PREP:
+    Run MASTER HELM
+    Run NETWORK MODEL3
+    Run GROWTH VELOCITY2
+
+PROD:
+    Run NAME MATCHER APP
+    Run SIMILARITY APP
+    Run ROUNDS APP 
+    Run COMPANY APP
+    Run INVESTOR APP 
+
+TODO:
+    NAMES APP  #<< Fuzzy string Matcher
+    INVESTOR APP 
+
+'''
+
+
+
+
+
+
+
